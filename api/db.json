@@ -1,0 +1,387 @@
+{
+  "users": [
+    {
+      "email": "domus@geladeiras.com",
+      "senha": "1234"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Geladeira Brastemp Frost Free Branca",
+      "categorias": [
+        "Geladeiras"
+      ],
+      "descricao": "Design moderno e espaçoso, com tecnologia Frost Free que evita o acúmulo de gelo e facilita a limpeza.",
+      "imagens": [
+        "Geladeira Brastemp Frost Free Branca.png"
+      ],
+      "id": "g1",
+      "preco": 5000,
+      "peso": null
+    },
+    {
+      "nome": "Geladeira Electrolux Frost Free ",
+      "categorias": [
+        "Geladeiras"
+      ],
+      "descricao": "Prática e eficiente, oferece ótimo desempenho e organização com degelo automático.",
+      "imagens": [
+        ""
+      ],
+      "id": "g2",
+      "preco": 10000,
+      "peso": null
+    },
+    {
+      "nome": "Geladeira Electrolux Frost Free Inverter 540L",
+      "categorias": [
+        "Geladeiras"
+      ],
+      "descricao": "Alta capacidade e tecnologia Inverter para economia de energia e funcionamento silencioso.",
+      "imagens": [
+        "Geladeira Electrolux Frost Free Inverter 540L.png"
+      ],
+      "id": "g3",
+      "preco": 6500,
+      "peso": null
+    },
+    {
+      "nome": "Geladeira French Door premiun",
+      "categorias": [
+        "Geladeiras"
+      ],
+      "descricao": "Conjunto completo com geladeira de design premium e eletrodomésticos para uma cozinha moderna e funcional.",
+      "imagens": [
+        "Geladeira French Door Premiun.png"
+      ],
+      "id": "g4",
+      "preco": 8000,
+      "peso": null
+    },
+    {
+      "nome": "Geladeira Frost Free Branca Panasonic",
+      "categorias": [
+        "Geladeiras"
+      ],
+      "descricao": "Elegante e funcional, com sistema de refrigeração uniforme que mantém os alimentos frescos por mais tempo.",
+      "imagens": [
+        "Geladeira Frost Free Branca Panasonic.png"
+      ],
+      "id": "g5",
+      "preco": 3200,
+      "peso": null
+    },
+    {
+      "nome": "Geladeira Frost Free French Door 554L",
+      "categorias": [
+        "Geladeiras"
+      ],
+      "descricao": "Amplo espaço interno e design sofisticado com portas francesas e tecnologia de refrigeração avançada.",
+      "imagens": [
+        "Geladeira Frost Free French Door 554L.png"
+      ],
+      "id": "g6",
+      "preco": 8000,
+      "peso": null
+    },
+    {
+      "nome": "Forno Elétrico Britânia 50L",
+      "categorias": [
+        "Fornos"
+      ],
+      "descricao": "Preparos rápidos e eficientes com capacidade de 50 L. Versátil para assar, gratinar e dourar. Ideal para o dia a dia.",
+      "imagens": [
+        "Forno eletrico britania 50L.jpg"
+      ],
+      "id": "f1",
+      "preco": 723,
+      "peso": null
+    },
+    {
+      "nome": "Forno Elétrico de Bancada",
+      "categorias": [
+        "Fornos"
+      ],
+      "descricao": "Compacto e prático, cabe em qualquer cozinha. Assa e aquece com precisão. Perfeito para rotinas dinâmicas.",
+      "imagens": [
+        "Forno eletrico de bancada.jpg"
+      ],
+      "id": "f2",
+      "preco": 479,
+      "peso": null
+    },
+    {
+      "nome": "Liquidificador Philco",
+      "categorias": [
+        "Liquidificadores"
+      ],
+      "descricao": "Potência e qualidade para suas receitas. Tritura com facilidade e oferece diversas velocidades. Indispensável na cozinha.",
+      "imagens": [
+        "Liquidificador Philco.jpg"
+      ],
+      "id": "l1",
+      "preco": 119.9,
+      "peso": null
+    },
+    {
+      "nome": "Liquidificador Portátil",
+      "categorias": [
+        "Liquidificadores"
+      ],
+      "descricao": "Leve e recarregável, ideal para sucos e shakes onde você estiver. Praticidade total no dia a dia.",
+      "imagens": [
+        "Liquidificador Portatil.jpg"
+      ],
+      "id": "l2",
+      "preco": 149.99,
+      "peso": null
+    },
+    {
+      "nome": "Liquidificador Turbo",
+      "categorias": [
+        "Liquidificadores"
+      ],
+      "descricao": "Alto desempenho para misturas mais pesadas. Potência extra para triturar tudo com rapidez. Ótimo para receitas intensas.",
+      "imagens": [
+        "Liquidificador Turbo.jpg"
+      ],
+      "id": "l3",
+      "preco": 199.99,
+      "peso": null
+    },
+    {
+      "nome": "Micro-ondas Branco Philco",
+      "categorias": [
+        "microondas"
+      ],
+      "descricao": "Design clean e funções práticas. Aquece e descongela com eficiência. Combina com qualquer cozinha.",
+      "imagens": [
+        "Microondas branco philco.jpg"
+      ],
+      "id": "m1",
+      "preco": 699,
+      "peso": null
+    },
+    {
+      "nome": "Micro-ondas Electrolux",
+      "categorias": [
+        "microondas"
+      ],
+      "descricao": "Tecnologia e praticidade no preparo diário. Funções inteligentes para aquecer e descongelar. Moderno e eficiente.",
+      "imagens": [
+        "Microondas Electrolux.jpg"
+      ],
+      "id": "m2",
+      "preco": 899,
+      "peso": null
+    },
+    {
+      "nome": "Sanduicheira Britânia Antiaderente",
+      "categorias": [
+        "Sanduicheiras"
+      ],
+      "descricao": "Prepare lanches sem grudar. Placas antiaderentes e aquecimento rápido. Simples e eficiente.",
+      "imagens": [
+        "Sanduicheira Britania antiaderente.jpg"
+      ],
+      "id": "s1",
+      "preco": 229.9,
+      "peso": null
+    },
+    {
+      "nome": "Sanduicheira & Grill Black",
+      "categorias": [
+        "Sanduicheiras"
+      ],
+      "descricao": "Design moderno e multifuncional. Grelha, aquece e sela alimentos com facilidade. Ideal para refeições rápidas.",
+      "imagens": [
+        "Sanduicheira E Grill Black.jpg"
+      ],
+      "id": "s2",
+      "preco": 139.9,
+      "peso": null
+    },
+    {
+      "nome": "Sanduicheira Mondial",
+      "categorias": [
+        "Sanduicheiras"
+      ],
+      "descricao": "Prática e compacta, perfeita para o dia a dia. Placas antiaderentes e aquecimento uniforme. Lanches prontos em minutos.",
+      "imagens": [
+        "Sanduicheira Mondial.jpg"
+      ],
+      "id": "s3",
+      "preco": 159.9,
+      "peso": null
+    },
+    {
+      "nome": "Cafeteira Multifuncional",
+      "categorias": [
+        "Cafeteiras"
+      ],
+      "descricao": "Versatilidade para diversos tipos de café. Prática e eficiente para a rotina. Ideal para quem ama variedade.",
+      "imagens": [
+        "Cafeteira multifuncional.jpg"
+      ],
+      "id": "c1",
+      "preco": 160,
+      "peso": null
+    },
+    {
+      "nome": "Cafeteira de Café Expresso",
+      "categorias": [
+        "Cafeteiras"
+      ],
+      "descricao": "Extraia espressos encorpados em casa. Pressão ideal e preparo rápido. Sofisticação ao alcance de todos.",
+      "imagens": [
+        "Cafeteira de café expresso.jpg"
+      ],
+      "id": "c2",
+      "preco": 149,
+      "peso": null
+    },
+    {
+      "nome": "Micro-Ondas Brastemp 20 Litros Cor Inox Espelhado",
+      "categorias": [
+        "microondas"
+      ],
+      "descricao": "Compacto e versátil com 20L, inox espelhado e funções práticas de pré-preparo.",
+      "imagens": [
+        "Micro-Ondas Brastemp 20 Litros Cor Inox Espelhado Com Funções Pré-Preparo   - Bms20ar 110V.jpg"
+      ],
+      "id": "m3",
+      "preco": 549.9,
+      "peso": null
+    },
+    {
+      "nome": "Micro-Ondas Mondial 20L Cor Inox Espelhado",
+      "categorias": [
+        "microondas"
+      ],
+      "descricao": "Micro-Ondas Mondial 20L, inox espelhado, moderna e com aquecimento rápido e eficiente.",
+      "imagens": [
+        "Micro-Ondas Mondial 20 Litros Cor Inox Espelhado.jpg"
+      ],
+      "id": "m4",
+      "preco": 479.9,
+      "peso": null
+    },
+    {
+      "nome": "Micro-ondas Midea 20L Branco e Preto",
+      "categorias": [
+        "microondas"
+      ],
+      "descricao": "Design preto e branco, 20L, tecnologia eficiente e controles intuitivos em 220V..",
+      "imagens": [
+        "Micro-ondas Midea 20L Branco e Preto 220V MRAS22.jpg"
+      ],
+      "id": "m5",
+      "preco": 599.9,
+      "peso": null
+    },
+    {
+      "nome": "Microondas Philco 25L Espelhado ",
+      "categorias": [
+        "microondas"
+      ],
+      "descricao": "Capacidade de 25L, design espelhado sofisticado e aquecimento uniforme Philco em 127V.",
+      "imagens": [
+        "Microondas Philco 25L Pme25 Espelhado 127v.jpg"
+      ],
+      "id": "m6",
+      "preco": 449,
+      "peso": null
+    },
+    {
+      "nome": "Forno Elétrico Grill De Bancada 66L Giratório Suggar, 127V",
+      "categorias": [
+        "Fornos"
+      ],
+      "descricao": "Forno elétrico de bancada 66L com grill giratório, 127V.",
+      "imagens": [
+        "Forno Elétrico Grill De Bancada 66L Giratório Suggar 127V.jpg"
+      ],
+      "id": "f3",
+      "preco": 899.9,
+      "peso": null
+    },
+    {
+      "nome": "Forno Philco 38L Assa & Grilla",
+      "categorias": [
+        "Fornos"
+      ],
+      "descricao": "Forno Philco 38L para assar e grelhar.",
+      "imagens": [
+        "Forno Philco 38L Assa & Grilla.jpg"
+      ],
+      "id": "f4",
+      "preco": 649.9,
+      "peso": null
+    },
+    {
+      "nome": "Forno Elétrico 42L Family II, Mondial 1600W 220V",
+      "categorias": [
+        "Fornos"
+      ],
+      "descricao": "Forno elétrico Mondial 42L, 1600W, 220V, ideal para famílias.",
+      "imagens": [
+        "Forno Elétrico 42L Family II, Mondial 1600W 220V.jpg"
+      ],
+      "id": "f5",
+      "preco": 799.9,
+      "peso": null
+    },
+    {
+      "nome": "Forno Elétrico DuoCook 30L",
+      "categorias": [
+        "Fornos"
+      ],
+      "descricao": "Forno elétrico DuoCook 30L para cozinhar eficientemente.",
+      "imagens": [
+        "Forno Elétrico DuoCook 30L.jpg"
+      ],
+      "id": "f6",
+      "preco": 549.9,
+      "peso": null
+    },
+    {
+      "nome": "Sanduicheira E Grill Black",
+      "categorias": [
+        "Sanduicheiras"
+      ],
+      "descricao": "Versátil e prática, a Sanduicheira e Grill Black prepara lanches rápidos e grelhados com placa antiaderente e aquecimento uniforme.",
+      "imagens": [
+        "Sanduicheira E Grill Black.jpg"
+      ],
+      "id": "s1",
+      "preco": 120,
+      "peso": null
+    },
+    {
+      "nome": "Sanduicheira Elétrica Electrolux",
+      "categorias": [
+        "Sanduicheiras"
+      ],
+      "descricao": "Com design em inox e 750W, a Electrolux ESG20 prepara lanches rápidos com placas antiaderentes.",
+      "imagens": [
+        "Sanduicheira Elétrica Electrolux ESG20 Inox 750W Antiaderente Grill Lanche Chapa 110V.jpg"
+      ],
+      "id": "s2",
+      "preco": 139,
+      "peso": null
+    },
+    {
+      "nome": "Sanduicheira Elgin BlackHeat",
+      "categorias": [
+        "Sanduicheiras"
+      ],
+      "descricao": "Moderna e compacta, a Elgin BlackHeat garante aquecimento rápido e placas antiaderentes perfeitas para lanches crocantes e fáceis de preparar.",
+      "imagens": [
+        "Sanduicheira Elgin BlackHeat.jpg"
+      ],
+      "id": "s3",
+      "preco": 100,
+      "peso": null
+    }
+  ]
+}
