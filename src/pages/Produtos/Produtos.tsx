@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { useLocation, useParams } from 'react-router-dom'
+import { Link, useLocation, useParams } from 'react-router-dom'
 import './Produtos.css';
 import type { Produtos } from '../../types/Produtos'
 import { getProdutos } from '../../services/ProdutoService'
@@ -7,6 +7,8 @@ import CardProduto from '../../components/CardProduto/CardProduto'
 import Carrossel from '../../components/Carrossel/Carrossel'
 import Header from '../../components/Header/Header'
 import Footer from '../../components/Footer/Footer';
+import whatsapp_logo from '../../assets/whatsapp.png';
+
 
 export default function Produtos1() {
   const [produtos, setProdutos] = useState<Produtos[]>([]);
@@ -79,6 +81,10 @@ export default function Produtos1() {
             ))
           }
         </section>
+        <Link to={"https://wa.me/5511999999999?text=Olá%20,%20gostaria%20de%20mais%20informações."} className="whatsapp" >
+          <img src={whatsapp_logo} alt="icone do whatsapp" />
+        </Link>
+
       </main>
       <Footer />
 
