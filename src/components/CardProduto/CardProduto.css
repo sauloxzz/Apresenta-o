@@ -23,7 +23,8 @@
 }
 
 .card_produto img{
-  width: 70%;
+  max-height: 210px;
+  margin-top: 10px;
 }
 
 .card_produto p,

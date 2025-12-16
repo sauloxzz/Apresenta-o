@@ -1,0 +1,10 @@
+.Domus-Eletro-grafico {
+    width: 100vw;
+    height: 100vh;
+}
+
+.FooterDashboard{
+    position: fixed;
+    width: 100vw;
+    bottom: 0;
+}

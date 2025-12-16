@@ -26,7 +26,7 @@
       ],
       "descricao": "Prática e eficiente, oferece ótimo desempenho e organização com degelo automático.",
       "imagens": [
-        ""
+        "Geladeira Electrolux Frost Free .png"
       ],
       "id": "g2",
       "preco": 10000,
@@ -381,6 +381,97 @@
       ],
       "id": "s3",
       "preco": 100,
+      "peso": null
+    },
+    {
+      "nome": "Liquidificador Mondial Turbo Power Vermelho",
+      "categorias": [
+        "Liquidificadores"
+      ],
+      "descricao": "Liquidificador Mondial Turbo Power com 550W de potência, 3 velocidades e função pulsar. Possui jarra de 2,2L e design moderno, ideal para sucos, vitaminas e receitas do dia a dia.",
+      "imagens": [
+        "Liquidificador Turbo Power Mondial Vermelho 1.png"
+      ],
+      "id": "l1",
+      "preco": 129.90,
+      "peso": null
+    },
+    {
+      "nome": "Liquidificador Simples",
+      "categorias": [
+        "Liquidificadores"
+      ],
+      "descricao": "Liquidificador simples e funcional, indicado para preparos rápidos como sucos e vitaminas. Compacto, fácil de usar e ideal para a rotina diária.",
+      "imagens": [
+        "Liquidicador Simples 1.png"
+      ],
+      "id": "l2",
+      "preco": 100,
+      "peso": null
+    },
+    {
+      "nome": "Liquidificador Mondial Tradicional",
+      "categorias": [
+        "Liquidificadores"
+      ],
+      "descricao": "Liquidificador Mondial tradicional com boa potência e capacidade adequada para o dia a dia. Ideal para misturas leves e preparo de bebidas e receitas simples.",
+      "imagens": [
+        "Liquidificador Mondial 1.png"
+      ],
+      "id": "l3",
+      "preco": 119.90,
+      "peso": null
+    },
+    {
+      "id": "c1",
+      "nome": "Cafeteira Mundial",
+      "categorias": [
+        "Cafeteiras"
+      ],
+      "descricao": "Prática e compacta, ideal para o preparo rápido do café do dia a dia. Design funcional que combina com qualquer cozinha.",
+      "imagens": [
+        "Cafeteira mundial.jpg"
+      ],
+      "preco": 149.90,
+      "peso": null
+    },
+    {
+      "id": "c2",
+      "nome": "Cafeteira Elétrica com Timer",
+      "categorias": [
+        "Cafeteiras"
+      ],
+      "descricao": "Programável com timer, garante café pronto na hora certa, com design moderno. Ideal para quem busca praticidade e elegância.",
+      "imagens": [
+        "Cafeteira Elétrica Electrolux Ecm25 Experience Programável Com Timer Preto E Inox.jpg"
+      ],
+      "preco": 329.90,
+      "peso": null
+    },
+    {
+      "id": "c3",
+      "nome": "Cafeteira Master",
+      "categorias": [
+        "Cafeteiras"
+      ],
+      "descricao": "Potente e eficiente, prepara café saboroso com facilidade. Ideal para quem busca praticidade e bom rendimento.",
+      "imagens": [
+        "Cafeteira Master.jpg"
+      ],
+      "preco": 189.90,
+      "peso": null
+    },
+    {
+      "id": "c4",
+      "nome": "Cafeteira Dupla",
+      "categorias": [
+        "Cafeteiras"
+      ],
+      "descricao": "Permite preparar duas porções simultaneamente, ideal para famílias ou escritórios. Praticidade e economia de tempo.",
+      "imagens": [
+        "Cafeteira Dupla.jpg"
+      ],
+      "preco": 249.90,
       "peso": null
     }
   ]

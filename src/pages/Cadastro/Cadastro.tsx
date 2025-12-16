@@ -6,6 +6,8 @@ import type { Produtos } from '../../types/Produtos';
 import ModalCustomizado from '../../components/ModalCustomizado/ModalCustomizado';
 import { formatosService } from '../../services/formatosService';
 import { NumericFormat } from 'react-number-format';
+import { Link } from 'react-router-dom';
+import Footer from '../../components/Footer/Footer';
 
 
 
@@ -130,7 +132,9 @@ export default function Cadastro() {
             <Header />
             <main>
                 <h1 className="acessivel">tela de cadastro e listagem de produtos</h1>
-                <iframe className='Domus-Eletro-grafico' title="grafico da domus" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZDlhMmZlZjMtMTY4Yy00MDk4LTlkYmUtOWJhMDUxMDA2ODg3IiwidCI6ImIxMDUxYzRiLTNiOTQtNDFhYi05NDQxLWU3M2E3MjM0MmZkZCJ9" frameborder="0" allowFullScreen="true"></iframe>
+                <Link className="dash" to={"/dashboard"} >
+                    <button >Ver Dashboard</button>
+                </Link>
                 <form onSubmit={handleSubmit} className="container_cadastro">
                     <h2>Cadastro</h2>
 
@@ -281,7 +285,9 @@ export default function Cadastro() {
                 corpo={propsModalDeErroOuSucesso.corpo}
                 exibirConteudoCentralizado={true}
             />
+                <Footer />
         </>
+
     )
 }
 

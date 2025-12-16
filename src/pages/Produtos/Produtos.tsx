@@ -6,6 +6,7 @@ import { getProdutos } from '../../services/ProdutoService'
 import CardProduto from '../../components/CardProduto/CardProduto'
 import Carrossel from '../../components/Carrossel/Carrossel'
 import Header from '../../components/Header/Header'
+import Footer from '../../components/Footer/Footer';
 
 export default function Produtos1() {
   const [produtos, setProdutos] = useState<Produtos[]>([]);
@@ -60,7 +61,7 @@ export default function Produtos1() {
                 categoria
                   ? categoria.charAt(0).toUpperCase() + categoria.slice(1).toLowerCase()
                   : termo_pesquisado ? `Resultados para: ${termo_pesquisado}`
-                  : "Nenhum filtro aplicado"}
+                    : "Nenhum filtro aplicado"}
             </span>
             <hr />
           </div>
@@ -79,6 +80,8 @@ export default function Produtos1() {
           }
         </section>
       </main>
+      <Footer />
+
     </>
   )
 }
